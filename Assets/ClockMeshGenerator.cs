@@ -35,9 +35,9 @@ namespace AssemblyCSharp
 		[SerializeField]
 		MeshFilter meshFilter;
 
-		public List<Vector3> points = new List<Vector3> ();
-		public List<Color32> colors = new List<Color32> ();
-		public List<int> indices = new List<int> ();
+		List<Vector3> points = new List<Vector3> ();
+		List<Color32> colors = new List<Color32> ();
+		List<int> indices = new List<int> ();
 		Mesh mesh;
 
 		void Update ()

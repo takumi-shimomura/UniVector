@@ -6,8 +6,8 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: LineMaterial
-  m_Shader: {fileID: 4800000, guid: c473005b9a72943c59bdd506be0a83a5, type: 3}
+  m_Name: LineMaterial2
+  m_Shader: {fileID: 4800000, guid: d492b126a87124e7db8d826a93c6803c, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -72,7 +72,7 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
-    - _Width: 0.2
+    - _Width: 0.5
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
